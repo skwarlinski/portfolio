@@ -26,12 +26,14 @@ Jestem **Data Scientist (AI/ML)** z pasją do tworzenia inteligentnych rozwiąza
 
 ### 📜 Certyfikaty {#certyfikaty}
 
-- **Kurs Data Science AI/ML** (ukończony)
+- Kurs **Data Science AI/ML** od **GOTOIT sp. z o.o.** 
+- Kurs **Umiejęności Jutra AI** od **Google**
 
 ### 💼 Doświadczenie {#doswiadczenie}
 
-- **7 miesięcy** intensywnej nauki Data Science AI/ML
+- **7 miesięcy** - intensywnej nauki Data Science AI/ML
 - **4 miesiące** - członek elitarnej grupy Masterclass - rozszerzenie kursu Data Science
+- **5 tygodni** - intensywnej nauki Umiejętności Jutra AI
 
 
 ---
